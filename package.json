@@ -1,0 +1,33 @@
+{
+  "name": "fmstats",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.7",
+    "apexcharts": "^3.37.2",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue-next": "^0.8.7",
+    "chart.js": "^4.3.0",
+    "datatables.net-bs5": "^1.13.4",
+    "datatables.net-vue3": "^2.1.0",
+    "papaparse": "^5.4.1",
+    "vue": "^3.2.47",
+    "vue-chartjs": "^5.2.0",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "sass": "^1.62.0",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.1.4"
+  }
+}
